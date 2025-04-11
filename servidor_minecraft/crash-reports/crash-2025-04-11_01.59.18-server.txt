@@ -1,0 +1,63 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 4/11/25 1:59 AM
+Description: Exception in server tick loop
+
+Missing Mods:
+	iChunUtil : [4.0.0,)
+
+cpw.mods.fml.common.MissingModsException
+	at cpw.mods.fml.common.Loader.sortModList(Loader.java:243)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:493)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Linux (amd64) version 6.8.0-1021-azure
+	Java Version: 1.8.0_442, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1806491800 bytes (1722 MB) / 2058354688 bytes (1963 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx4G
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 26 mods loaded, 26 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	U	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	U	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10-universal.jar) 
+	U	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10-universal.jar) 
+	U	CodeChickenCore{1.0.7.48} [CodeChicken Core] (minecraft.jar) 
+	U	Treecapitator{1.7.10} [Treecapitator] ([1.7.10]Treecapitator-universal-2.0.4.jar) 
+	U	deconstruction{3.0.2} [Deconstruction Table] ([MC1.7.10]DeconTable-3.0.2.jar) 
+	U	Backpack{2.0.1} [Backpack] (backpack-2.0.1-1.7.x.jar) 
+	U	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	U	BiomesOPlenty{2.1.0} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar) 
+	U	AWWayofTime{v1.3.3} [Blood Magic: Alchemical Wizardry] (BloodMagic-1.7.10-1.3.3-17.jar) 
+	U	chocolateQuest{1.0} [Chocolate Quest] (chocolateQuest-1.7.10-1.0.jar) 
+	U	CustomSpawner{3.3.0} [DrZhark's CustomSpawner] (Custom-Mob-Spawner-Mod-1.7.10.zip) 
+	U	dungeonmobs{4.1.3} [Dungeon Mobs] (DungeonMobs-Mod-1.7.10.jar) 
+	U	eplus{3.0.2-d} [Enchanting Plus] (EnchantingPlus-1.7.10-3.0.2-d.jar) 
+	U	fossil{1.7.10 Build 7.2.1} [Fossils and Archeology Revival] (Fossils_Archeology_Revival-1.7.10_Build-7.2.1.jar) 
+	U	gokiStats{1.0.0} [gokiStats] (Goki_Stats_Mod_1.7.10.jar) 
+	U	InfernalMobs{1.6.0} [Infernal Mobs] (InfernalMobs-1.7.10.jar) 
+	U	inventorytweaks{1.59-SI-release-0421137-dirty} [Inventory Tweaks] (InventoryTweaks-1.59-unofficial-asie-1.jar) 
+	U	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	U	MobAmputation{4.0.1} [MobAmputation] (MobAmputation-4.0.1.jar) 
+	U	MobDismemberment{4.0.0} [MobDismemberment] (MobDismemberment-4.0.0.jar) 
+	U	TallDoors{0.5.1} [Tall Doors Mod] (TallDoors-1.7.10-0.5.2.jar) 
+	U	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	U	TwilightForest{2.3.8dev} [The Twilight Forest] (twilightforest-1.7.10-2.3.8.jar) 
+	U	witchery{0.24.1} [Witchery] (witchery-1.7.10-0.24.1.jar) 
+	U	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
