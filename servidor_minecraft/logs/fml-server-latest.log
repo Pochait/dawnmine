@@ -2763,3 +2763,43 @@ Caused by: java.lang.IllegalArgumentException
 [01:30:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [01:30:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [01:31:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:32:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:33:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:33:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:34:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:35:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:36:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:36:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:37:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:38:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:39:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:39:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:40:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:41:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:42:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:42:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:43:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:44:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:45:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:45:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:46:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:47:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:48:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:48:43] [Netty IO #1/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:48:43] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[01:48:43] [Netty IO #1/TRACE] [FML/]: $ModList:40 mods->FMLHandshakeServerState$2:HELLO
+[01:48:43] [Netty IO #1/INFO] [FML/]: Client attempting to join with 40 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:48:43] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:48:43] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:48:43] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:48:43] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:48:43] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:48:43] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:48:43] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:48:44] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:48:44] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:48:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:49:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:50:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:51:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:51:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
