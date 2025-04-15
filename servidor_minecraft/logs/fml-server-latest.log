@@ -2926,3 +2926,19 @@ io.netty.handler.timeout.ReadTimeoutException
 [02:40:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:41:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:42:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:42:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:43:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:44:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:45:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:45:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:46:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:47:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:47:39] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 100 packets have leaked. Top offenders
+[02:47:39] [Server thread/ERROR] [FML/]: 	 gokiStats : 96
+[02:47:39] [Server thread/ERROR] [FML/]: 	 FML : 4
+[02:48:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:48:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:49:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:50:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:51:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:51:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
