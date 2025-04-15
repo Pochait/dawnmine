@@ -74,3 +74,19 @@
 [02:20:39] [Server thread/INFO]: [ThebrosXD: De-opped ThebrosXD]
 [02:22:09] [Server thread/INFO]: Arthuro has just earned the achievement [Diggin' for Bones!]
 [02:22:15] [Server thread/INFO]: ThebrosXD has just earned the achievement [DIAMONDS!]
+[02:23:03] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:23:03] [Server thread/INFO]: Angelichi39 left the game
+[02:23:14] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:23:14] [Server thread/INFO]: ThebrosXD left the game
+[02:23:34] [Server thread/INFO]: ThebrosXD[/127.7.14.88:37929] logged in with entity id 105170 at (66.42845604109215, 12.0, -81.98605187356127)
+[02:23:34] [Server thread/INFO]: ThebrosXD joined the game
+[02:23:58] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:23:58] [Server thread/INFO]: ThebrosXD left the game
+[02:24:01] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:24:01] [Server thread/INFO]: ThebrosXD left the game
+[02:25:23] [Server thread/INFO]: Angelichi39[/127.19.94.156:42807] logged in with entity id 106687 at (59.63042274092948, 66.0, -54.57483235099982)
+[02:25:23] [Server thread/INFO]: Angelichi39 joined the game
+[02:26:28] [Server thread/INFO]: ThebrosXD[/127.7.14.88:45151] logged in with entity id 107056 at (66.42845604109215, 12.0, -81.98605187356127)
+[02:26:28] [Server thread/INFO]: ThebrosXD joined the game
+[02:30:29] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
+[02:37:55] [Server thread/INFO]: Angelichi39 has just earned the achievement [DIAMONDS!]
