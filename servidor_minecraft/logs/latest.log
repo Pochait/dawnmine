@@ -1,41 +1,43 @@
-[00:30:54] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Mod rejections [FMLMod:skinport{1.7.10-v10d}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:30:54] [Server thread/INFO]: Arthuro left the game
-[00:31:07] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Mod rejections [FMLMod:skinport{1.7.10-v10d}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:31:07] [Server thread/INFO]: Arthuro left the game
-[00:36:16] [Server thread/INFO]: Arthuro[/127.207.17.91:59273] logged in with entity id 40652 at (-245.2330911274583, 68.0, -68.45597758446922)
-[00:36:16] [Server thread/INFO]: Arthuro joined the game
-[00:37:01] [Server thread/INFO]: <Arthuro> te veo igual xd
-[00:48:58] [Server thread/INFO]: <ThebrosXD> ya
-[00:49:00] [Server thread/INFO]: <ThebrosXD> xd
-[00:49:04] [Server thread/INFO]: <ThebrosXD> ippipi
-[00:49:20] [Server thread/INFO]: <ThebrosXD> oe no crecen esas zanahoraias
-[00:49:24] [Server thread/INFO]: <ThebrosXD> tanto demora
-[00:49:38] [Server thread/INFO]: <Arthuro> a esas si crecieron solo las agarre xd
-[00:50:31] [Server thread/INFO]: <Arthuro> mmmm
-[00:50:40] [Server thread/INFO]: <Arthuro> algo no cuadra
-[00:50:57] [Server thread/INFO]: <Arthuro> te veo con la skin de steve no con la del pack de textura
-[00:52:57] [Server thread/INFO]: <ThebrosXD> pipipi
-[00:53:30] [Server thread/INFO]: <ThebrosXD> ni idea
-[00:54:45] [Server thread/INFO]: <ThebrosXD> como vas hacer aqui?
-[00:54:52] [Server thread/INFO]: <ThebrosXD> lo vas a tener abierto?
-[00:55:13] [Server thread/INFO]: <ThebrosXD> *[
-[00:55:26] [Server thread/INFO]: <Arthuro> nope, quiero hacer el techo de madera y el suelo de otro tipo de madera
-[00:55:52] [Server thread/INFO]: <ThebrosXD> aaa
-[01:00:07] [Server thread/INFO]: <Arthuro> tema mina se hara afuera o una dentro?
-[01:00:17] [Server thread/INFO]: <ThebrosXD> lema?
-[01:00:29] [Server thread/INFO]: <Arthuro> TEMA
-[01:00:40] [Server thread/INFO]: <ThebrosXD> mmm
-[01:00:47] [Server thread/INFO]: <ThebrosXD> diria adentro
-[01:01:13] [Server thread/INFO]: <Arthuro> donde para empezar quiero piedra
-[01:01:30] [Server thread/INFO]: <ThebrosXD> aqui
-[01:06:01] [Server thread/INFO]: <Arthuro> WUAAAAAAAAAA
-[01:06:13] [Server thread/INFO]: <Arthuro> que cueva
-[01:06:30] [Server thread/INFO]: <ThebrosXD> estas?
-[01:06:49] [Server thread/INFO]: <Arthuro> see es una crieta
-[01:06:54] [Server thread/INFO]: <Arthuro> de lava
-[01:07:04] [Server thread/INFO]: <ThebrosXD> aaa
-[01:08:17] [Server thread/INFO]: <Arthuro> diamante
-[01:12:30] [Server thread/WARN]: ThebrosXD moved wrongly!
-[01:22:18] [Server thread/INFO]: <Arthuro> cuidao se cierra el server
-[01:36:46] [Server thread/INFO]: <Arthuro> tu sangre no la mia xd
-[01:40:17] [Server thread/INFO]: <ThebrosXD> zzz
+[00:46:23] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:46:32] [Server thread/INFO]: Loading properties
+[00:46:32] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:32] [Server thread/INFO]: Generating keypair
+[00:46:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:46:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:46:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:46:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:46:39] [Server thread/INFO]: Preparing level "world"
+[00:46:49] [Server thread/INFO]: Preparing start region for level 0
+[00:46:49] [Server thread/INFO]: Done (9.760s)! For help, type "help" or "?"
+[00:47:03] [Server thread/INFO]: ThebrosXD[/127.7.14.88:45279] logged in with entity id 7592 at (-257.29143682892743, 64.0, -95.60966950603103)
+[00:47:03] [Server thread/INFO]: ThebrosXD joined the game
+[00:48:06] [Server thread/INFO]: Arthuro[/127.207.17.91:48117] logged in with entity id 7975 at (-250.3830187184856, 68.0, -73.22945260571323)
+[00:48:06] [Server thread/INFO]: Arthuro joined the game
+[00:50:22] [Server thread/INFO]: <Arthuro> que es eso?
+[00:50:27] [Server thread/INFO]: <ThebrosXD> que cosa?
+[00:50:37] [Server thread/INFO]: <Arthuro> lo que hiciste ayer
+[00:50:42] [Server thread/INFO]: <ThebrosXD> aaa
+[00:50:50] [Server thread/INFO]: <ThebrosXD> como una torre
+[00:50:58] [Server thread/INFO]: <ThebrosXD> me falta moldearla
+[00:51:20] [Server thread/INFO]: <Arthuro> tiene funcion o es decoracion?
+[00:51:29] [Server thread/INFO]: <ThebrosXD> eeee
+[00:51:34] [Server thread/INFO]: <ThebrosXD> supongo xd
+[00:52:18] [Server thread/INFO]: <Arthuro> creo que este castillo esta pequeño xd
+[00:52:55] [Server thread/INFO]: <ThebrosXD> esta para expanderse
+[00:53:01] [Server thread/INFO]: <ThebrosXD> creo xd
+[00:53:27] [Server thread/INFO]: <Arthuro> porque falta para poner el horno del tinker
+[00:53:46] [Server thread/INFO]: <ThebrosXD> eso lo puedes poner por aqui
+[00:53:57] [Server thread/INFO]: <ThebrosXD> aqui aladito
+[00:54:12] [Server thread/INFO]: <ThebrosXD> ohhh
+[00:54:16] [Server thread/INFO]: <ThebrosXD> aqui
+[00:54:22] [Server thread/INFO]: <ThebrosXD> si es mas grande
+[00:54:35] [Server thread/INFO]: <Arthuro> es de 3x3
+[00:54:43] [Server thread/INFO]: <ThebrosXD> aa enotnces
+[00:54:47] [Server thread/INFO]: <ThebrosXD> donde te dije
+[00:55:09] [Server thread/INFO]: <ThebrosXD> oe no dejes la puerta abierta
+[00:55:25] [Server thread/INFO]: <Arthuro> OEEEEEEEE
+[00:55:32] [Server thread/INFO]: <Arthuro> T.T
+[00:55:43] [Server thread/INFO]: <Arthuro> usemos el porton xd
+[00:55:51] [Server thread/INFO]: <ThebrosXD> haz enocntrado alguna semilla de trigo?
+[00:55:54] [Server thread/INFO]: <ThebrosXD> hazla
