@@ -1,29 +1,18 @@
-[23:25:26] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[23:25:34] [Server thread/INFO]: Loading properties
-[23:25:34] [Server thread/INFO]: Default game type: SURVIVAL
-[23:25:34] [Server thread/INFO]: Generating keypair
-[23:25:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:25:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:25:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:25:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:25:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:25:41] [Server thread/INFO]: Preparing level "world"
-[23:25:50] [Server thread/INFO]: Preparing start region for level 0
-[23:25:51] [Server thread/INFO]: Done (9.553s)! For help, type "help" or "?"
-[23:28:51] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Mod rejections [FMLMod:skinport{1.7.10-v10d}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:28:51] [Server thread/INFO]: Angelichi39 left the game
-[23:28:58] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Mod rejections [FMLMod:skinport{1.7.10-v10d}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:28:58] [Server thread/INFO]: Angelichi39 left the game
-[23:29:45] [Server thread/INFO]: ThebrosXD[/127.28.173.95:55037] logged in with entity id 7586 at (-265.3424956456017, 64.0, -86.70427183108404)
-[23:29:45] [Server thread/INFO]: ThebrosXD joined the game
-[23:30:06] [Server thread/INFO]: Arthuro[/127.207.17.91:43867] logged in with entity id 7924 at (-253.44811041497866, 70.0, -72.27103243208019)
-[23:30:06] [Server thread/INFO]: Arthuro joined the game
-[23:31:39] [Server thread/INFO]: Angelichi39[/127.19.94.156:45107] logged in with entity id 9244 at (-254.49494492014674, 70.0, -89.35299500557264)
-[23:31:39] [Server thread/INFO]: Angelichi39 joined the game
-[23:32:13] [Server thread/INFO]: <Arthuro> oye quitate la armadura
-[23:35:06] [Server thread/INFO]: <ThebrosXD> discord :v
-[23:46:57] [Server thread/INFO]: [ThebrosXD: Kicked Arthuro from the game: 'COMPORTAMIENTO TOXICO']
-[23:46:57] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='COMPORTAMIENTO TOXICO', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:46:57] [Server thread/INFO]: Arthuro left the game
-[23:47:11] [Server thread/INFO]: Arthuro[/127.207.17.91:50109] logged in with entity id 18453 at (-250.36137018346471, 63.0, -85.83489068664531)
-[23:47:11] [Server thread/INFO]: Arthuro joined the game
+[00:19:06] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:19:17] [Server thread/INFO]: Loading properties
+[00:19:17] [Server thread/INFO]: Default game type: SURVIVAL
+[00:19:17] [Server thread/INFO]: Generating keypair
+[00:19:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:19:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:19:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:19:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:19:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:19:25] [Server thread/INFO]: Preparing level "world"
+[00:19:36] [Server thread/INFO]: Preparing start region for level 0
+[00:19:36] [Server thread/INFO]: Done (11.573s)! For help, type "help" or "?"
+[00:20:08] [Server thread/INFO]: ThebrosXD[/127.28.173.95:42019] logged in with entity id 7575 at (-252.4979642257776, 75.0, -77.16577881214586)
+[00:20:08] [Server thread/INFO]: ThebrosXD joined the game
+[00:20:19] [Server thread/INFO]: Arthuro[/127.207.17.91:51633] logged in with entity id 7694 at (-247.97776665772983, 68.0, -70.76196757092583)
+[00:20:19] [Server thread/INFO]: Arthuro joined the game
+[00:20:43] [Server thread/INFO]: Angelichi39[/127.19.94.156:46397] logged in with entity id 7809 at (-248.88235770459235, 64.0, -59.16172248310846)
+[00:20:43] [Server thread/INFO]: Angelichi39 joined the game
