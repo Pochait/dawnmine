@@ -1,18 +1,18 @@
-[01:24:19] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[01:24:29] [Server thread/INFO]: Loading properties
-[01:24:29] [Server thread/INFO]: Default game type: SURVIVAL
-[01:24:29] [Server thread/INFO]: Generating keypair
-[01:24:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:24:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:24:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:24:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:24:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:24:38] [Server thread/INFO]: Preparing level "world"
-[01:24:50] [Server thread/INFO]: Preparing start region for level 0
-[01:24:51] [Server thread/INFO]: Done (13.582s)! For help, type "help" or "?"
-[01:25:41] [Server thread/INFO]: Angelichi39[/127.19.94.156:60801] logged in with entity id 7573 at (-262.055645761803, 74.0, -98.59573241158509)
-[01:25:41] [Server thread/INFO]: Angelichi39 joined the game
-[01:25:55] [Server thread/INFO]: Arthuro[/127.207.17.91:56919] logged in with entity id 7751 at (-237.46149248270063, 70.0, -69.05986871022989)
-[01:25:55] [Server thread/INFO]: Arthuro joined the game
-[01:31:50] [Server thread/INFO]: ThebrosXD[/127.28.173.95:52647] logged in with entity id 9932 at (-263.5804767810473, 70.0, -94.27612962061107)
-[01:31:50] [Server thread/INFO]: ThebrosXD joined the game
+[00:55:05] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:55:14] [Server thread/INFO]: Loading properties
+[00:55:14] [Server thread/INFO]: Default game type: SURVIVAL
+[00:55:14] [Server thread/INFO]: Generating keypair
+[00:55:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:55:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:55:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:55:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:55:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:55:21] [Server thread/INFO]: Preparing level "world"
+[00:55:33] [Server thread/INFO]: Preparing start region for level 0
+[00:55:33] [Server thread/INFO]: Done (11.980s)! For help, type "help" or "?"
+[00:58:37] [Server thread/INFO]: Arthuro[/127.207.17.91:43415] logged in with entity id 7591 at (-277.07274831380647, 70.0, -82.71895689101828)
+[00:58:37] [Server thread/INFO]: Arthuro joined the game
+[01:02:47] [Server thread/INFO]: ThebrosXD[/127.28.173.95:55289] logged in with entity id 9014 at (-264.89666839158355, 64.0, -88.04890387401348)
+[01:02:47] [Server thread/INFO]: ThebrosXD joined the game
+[01:02:49] [Server thread/INFO]: Angelichi39[/127.135.79.32:48477] logged in with entity id 9079 at (-257.71031231536926, 64.0, -73.63800016597743)
+[01:02:49] [Server thread/INFO]: Angelichi39 joined the game
