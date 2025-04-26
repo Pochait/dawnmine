@@ -2867,3 +2867,20 @@ io.netty.handler.timeout.ReadTimeoutException
 [02:16:24] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 100 packets have leaked. Top offenders
 [02:16:24] [Server thread/ERROR] [FML/]: 	 gokiStats : 98
 [02:16:24] [Server thread/ERROR] [FML/]: 	 FML : 2
+[02:16:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:17:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:18:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:19:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:19:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:20:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:21:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:22:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:22:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:23:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:24:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:25:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:25:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:25:58] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 200 packets have leaked. Top offenders
+[02:25:58] [Server thread/ERROR] [FML/]: 	 gokiStats : 198
+[02:25:58] [Server thread/ERROR] [FML/]: 	 FML : 2
+[02:26:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
