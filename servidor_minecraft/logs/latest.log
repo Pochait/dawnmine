@@ -160,3 +160,15 @@
 [02:34:32] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
 [02:34:34] [Server thread/INFO]: Arthuro was slain by King Slime
 [02:34:37] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
+[02:37:50] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:37:50] [Server thread/INFO]: ThebrosXD left the game
+[02:37:58] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:38:29] [Server thread/INFO]: ThebrosXD[/127.28.173.95:53213] logged in with entity id 186411 at (38.19776730483787, 70.0, 41.736981169778126)
+[02:38:29] [Server thread/INFO]: ThebrosXD joined the game
+[02:39:49] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -243.5,69.5,-83.5]
+[02:41:39] [Server thread/INFO]: [Angelichi39: Set the time to 1218000]
+[02:41:42] [Server thread/INFO]: [Angelichi39: Set the time to 1236000]
+[02:41:42] [Server thread/INFO]: [Angelichi39: Set own game mode to Creative Mode]
+[02:41:43] [Server thread/INFO]: [Angelichi39: Set the time to 1254000]
+[02:42:07] [Server thread/INFO]: [Angelichi39: Set own game mode to Adventure Mode]
+[02:42:09] [Server thread/INFO]: [ThebrosXD: Set own game mode to Survival Mode]
