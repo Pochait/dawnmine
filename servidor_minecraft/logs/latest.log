@@ -1,198 +1,42 @@
-[01:36:37] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[01:36:46] [Server thread/INFO]: Loading properties
-[01:36:46] [Server thread/INFO]: Default game type: SURVIVAL
-[01:36:46] [Server thread/INFO]: Generating keypair
-[01:36:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:36:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:36:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:36:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:36:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:36:54] [Server thread/INFO]: Preparing level "world"
-[01:37:06] [Server thread/INFO]: Preparing start region for level 0
-[01:37:07] [Server thread/INFO]: Preparing spawn area: 95%
-[01:37:07] [Server thread/INFO]: Done (13.596s)! For help, type "help" or "?"
-[01:37:16] [Server thread/INFO]: ThebrosXD[/127.28.173.95:40121] logged in with entity id 7538 at (-335.54673997915876, 86.0, 179.87352363292496)
-[01:37:16] [Server thread/INFO]: ThebrosXD joined the game
-[01:37:18] [Server thread/INFO]: Arthuro[/127.207.17.91:44155] logged in with entity id 8100 at (-328.4868827638032, 86.0, 177.43125415458886)
-[01:37:18] [Server thread/INFO]: Arthuro joined the game
-[01:37:20] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:37:20] [Server thread/INFO]: Arthuro left the game
-[01:37:30] [Server thread/INFO]: Arthuro[/127.207.17.91:35749] logged in with entity id 8187 at (-328.4868827638032, 86.0, 177.43125415458886)
-[01:37:30] [Server thread/INFO]: Arthuro joined the game
-[01:37:31] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:37:31] [Server thread/INFO]: Arthuro left the game
-[01:37:44] [Server thread/INFO]: Arthuro[/127.207.17.91:38809] logged in with entity id 8206 at (-328.4868827638032, 86.0, 177.43125415458886)
-[01:37:44] [Server thread/INFO]: Arthuro joined the game
-[01:37:44] [Server thread/INFO]: Angelichi39[/127.135.79.32:55935] logged in with entity id 8209 at (-340.2978729278386, 86.0, 176.65648208152385)
-[01:37:44] [Server thread/INFO]: Angelichi39 joined the game
-[01:38:50] [Server thread/INFO]: Angelichi39 was slain by  Skeleton
-[01:39:12] [Server thread/INFO]: [ThebrosXD: Teleported Angelichi39 to ThebrosXD]
-[01:43:11] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:43:56] [Server thread/INFO]: Arthuro was slain by Werewolf
-[01:44:18] [Server thread/INFO]: Angelichi39 was slain by  Skeleton
-[01:44:23] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:44:29] [Server thread/INFO]: <Angelichi39> :c
-[01:44:49] [Server thread/INFO]: Arthuro was slain by ThebrosXD using [§fIron Cleaver]
-[01:44:56] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:44:57] [Server thread/INFO]: <Angelichi39> xd
-[01:45:04] [Server thread/INFO]: Arthuro was slain by  Skeleton
-[01:45:07] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:45:32] [Server thread/INFO]: [ThebrosXD: Teleported Angelichi39 to ThebrosXD]
-[01:46:20] [Server thread/INFO]: Arthuro was shot by Skeleton
-[01:46:21] [Server thread/INFO]: Angelichi39 was slain by  Skeleton
-[01:46:23] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:46:58] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:47:04] [Server thread/INFO]: Arthuro burned to death
-[01:47:05] [Server thread/INFO]: ThebrosXD was slain by  Skeleton
-[01:47:21] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[01:49:49] [Server thread/INFO]: [ThebrosXD: Opped Angelichi39]
-[01:50:03] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -319.5,101.5,158.5]
-[01:50:04] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[01:51:39] [Server thread/INFO]: ThebrosXD was slain by Zombie
-[01:51:53] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:51:53] [Server thread/INFO]: ThebrosXD left the game
-[01:52:19] [Server thread/INFO]: ThebrosXD[/127.28.173.95:40835] logged in with entity id 28857 at (-311.9412480678858, 82.5, 176.53886626084005)
-[01:52:19] [Server thread/INFO]: ThebrosXD joined the game
-[01:52:35] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
-[01:54:25] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:09:48] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:11:32] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:11:38] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:17:36] [Server thread/INFO]: Angelichi39 was slain by King Slime
-[02:18:10] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 179.5,168.5,-0.5]
-[02:18:16] [Server thread/INFO]: Angelichi39 was slain by King Slime
-[02:18:19] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:18:23] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:18:23] [Server thread/INFO]: [ThebrosXD: Teleported Angelichi39 to ThebrosXD]
-[02:18:29] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:18:34] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:18:35] [Server thread/INFO]: Angelichi39 was slain by King Slime
-[02:18:44] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:19:09] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:19:10] [Server thread/INFO]: ThebrosXD fell from a high place
-[02:19:11] [Server thread/INFO]: Angelichi39 was slain by King Slime
-[02:19:13] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:19:20] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:19:22] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:19:24] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 177.5,85.5,7.5]
-[02:22:34] [Server thread/INFO]: ThebrosXD fell from a high place
-[02:22:50] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:23:43] [Server thread/INFO]: Arthuro was killed by Zombie using magic
-[02:23:46] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:23:46] [Server thread/INFO]: ThebrosXD was fireballed by King Slime
-[02:23:57] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:24:07] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:24:08] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 177.5,85.5,7.5]
-[02:24:19] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to -202.5,60.5,55.5]
-[02:24:24] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:24:27] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:24:37] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 141.5,66.5,-0.5]
-[02:24:39] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:24:48] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:24:53] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:25:10] [Server thread/INFO]: Arthuro was fireballed by King Slime
-[02:25:14] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:25:34] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:25:37] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:25:54] [Server thread/INFO]: ThebrosXD fell from a high place
-[02:25:56] [Server thread/INFO]: Arthuro was killed by Zombie using magic
-[02:26:04] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:26:08] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 156.5,63.5,-8.5]
-[02:26:44] [Server thread/INFO]: ThebrosXD was slain by King Slime
-[02:26:50] [Server thread/INFO]: Arthuro was blown up by Creeper
-[02:26:52] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 155.5,61.5,3.5]
-[02:26:59] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:27:00] [Server thread/INFO]: ThebrosXD was slain by King Slime
-[02:27:02] [Server thread/INFO]: Angelichi39 was killed by Zombie using magic
-[02:27:09] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:27:13] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:27:16] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:27:26] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:27:30] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to 156.5,61.5,0.5]
-[02:27:31] [Server thread/INFO]: ThebrosXD was slain by King Slime
-[02:27:36] [Server thread/INFO]: Angelichi39 fell from a high place
-[02:27:41] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:27:47] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:27:54] [Server thread/INFO]: Arthuro was fireballed by King Slime
-[02:27:58] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:28:02] [Server thread/INFO]: Arthuro fell from a high place
-[02:28:02] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:28:06] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:28:12] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:28:17] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:28:36] [Server thread/INFO]: ThebrosXD was fireballed by King Slime
-[02:28:41] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:28:50] [Server thread/INFO]: ThebrosXD was slain by King Slime
-[02:29:00] [Server thread/INFO]: Angelichi39 was fireballed by King Slime
-[02:29:07] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:29:14] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:29:25] [Server thread/INFO]: ThebrosXD fell from a high place
-[02:29:51] [Server thread/INFO]: Angelichi39 was killed by Zombie using magic
-[02:29:57] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:30:01] [Server thread/INFO]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
-[02:30:39] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:30:43] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:31:05] [Server thread/INFO]: Angelichi39 was slain by ThebrosXD
-[02:31:08] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:31:10] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:31:11] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:31:49] [Server thread/INFO]: Angelichi39 was fireballed by King Slime
-[02:31:55] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:32:01] [Server thread/INFO]: Arthuro was fireballed by King Slime
-[02:32:05] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:32:20] [Server thread/INFO]: Arthuro walked into fire whilst fighting King Slime
-[02:32:23] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:32:57] [Server thread/INFO]: Angelichi39 was slain by King Slime
-[02:33:04] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:33:08] [Server thread/INFO]: Arthuro was fireballed by King Slime
-[02:33:12] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:33:24] [Server thread/INFO]: Angelichi39 was slain by King Slime
-[02:33:24] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:33:27] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:33:30] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:33:41] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:33:44] [Server thread/INFO]: Angelichi39 was fireballed by King Slime
-[02:33:44] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:33:49] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:33:55] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:33:58] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:34:26] [Server thread/INFO]: Angelichi39 was fireballed by King Slime
-[02:34:32] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 185.5,168.5,-1.5]
-[02:34:34] [Server thread/INFO]: Arthuro was slain by King Slime
-[02:34:37] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:37:50] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:37:50] [Server thread/INFO]: ThebrosXD left the game
-[02:37:58] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
-[02:38:29] [Server thread/INFO]: ThebrosXD[/127.28.173.95:53213] logged in with entity id 186411 at (38.19776730483787, 70.0, 41.736981169778126)
-[02:38:29] [Server thread/INFO]: ThebrosXD joined the game
-[02:39:49] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -243.5,69.5,-83.5]
-[02:41:39] [Server thread/INFO]: [Angelichi39: Set the time to 1218000]
-[02:41:42] [Server thread/INFO]: [Angelichi39: Set the time to 1236000]
-[02:41:42] [Server thread/INFO]: [Angelichi39: Set own game mode to Creative Mode]
-[02:41:43] [Server thread/INFO]: [Angelichi39: Set the time to 1254000]
-[02:42:07] [Server thread/INFO]: [Angelichi39: Set own game mode to Adventure Mode]
-[02:42:09] [Server thread/INFO]: [ThebrosXD: Set own game mode to Survival Mode]
-[02:53:29] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[02:55:19] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[03:00:04] [Server thread/INFO]: [ThebrosXD: Set Angelichi39's game mode to Survival Mode]
-[03:03:17] [Server thread/INFO]: Angelichi39 has just earned the achievement [We Need to Go Deeper]
-[03:03:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3075ms behind, skipping 61 tick(s)
-[03:04:10] [Server thread/INFO]: ThebrosXD has just earned the achievement [We Need to Go Deeper]
-[03:06:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3242ms behind, skipping 64 tick(s)
-[03:06:34] [Server thread/INFO]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[03:08:07] [Server thread/INFO]: Angelichi39 has just earned the achievement [What the?]
-[03:11:21] [Server thread/INFO]: Arthuro has just earned the achievement [What the?]
-[03:20:09] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -29.5,69.5,-9.5]
-[03:29:46] [Server thread/INFO]: Arthuro lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:29:46] [Server thread/INFO]: Arthuro left the game
-[03:30:08] [Server thread/INFO]: ThebrosXD has just earned the achievement [Diamonds to you!]
-[03:33:54] [Server thread/INFO]: Arthuro[/127.207.17.91:59151] logged in with entity id 240798 at (-257.8375895107097, 64.0, -73.17978474232227)
-[03:33:54] [Server thread/INFO]: Arthuro joined the game
-[03:39:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8236ms behind, skipping 164 tick(s)
-[03:40:27] [Server thread/INFO]: ThebrosXD was slain by Spider
-[03:41:13] [Server thread/INFO]: ThebrosXD tried to swim in lava to escape Skeleton
-[03:56:36] [Server thread/INFO]: ThebrosXD burned to death
-[03:56:38] [Server thread/WARN]: Fetching addPacket for removed entity
-[04:11:54] [Server thread/WARN]: Arthuro moved wrongly!
-[04:30:18] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -243.5,69.5,-83.5]
-[04:33:59] [Server thread/INFO]: <Arthuro> MATALOOOOOO
+[01:49:34] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[01:49:44] [Server thread/INFO]: Loading properties
+[01:49:44] [Server thread/INFO]: Default game type: SURVIVAL
+[01:49:44] [Server thread/INFO]: Generating keypair
+[01:49:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:49:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:49:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:49:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:49:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:49:52] [Server thread/INFO]: Preparing level "world"
+[01:50:04] [Server thread/INFO]: Preparing start region for level 0
+[01:50:05] [Server thread/INFO]: Done (13.201s)! For help, type "help" or "?"
+[01:51:36] [Server thread/INFO]: ThebrosXD[/127.28.173.95:59557] logged in with entity id 7522 at (-258.7314407163004, 64.0, -97.31571203162063)
+[01:51:36] [Server thread/INFO]: ThebrosXD joined the game
+[01:52:06] [Server thread/INFO]: Arthuro[/127.207.17.91:50339] logged in with entity id 8051 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:52:06] [Server thread/INFO]: Arthuro joined the game
+[01:52:09] [Server thread/INFO]: Arthuro lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Broken pipe], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:52:09] [Server thread/INFO]: Arthuro left the game
+[01:52:25] [Server thread/INFO]: Arthuro[/127.207.17.91:52675] logged in with entity id 8424 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:52:25] [Server thread/INFO]: Arthuro joined the game
+[01:52:27] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:52:27] [Server thread/INFO]: Arthuro left the game
+[01:52:41] [Server thread/INFO]: Angelichi39[/127.135.79.32:48077] logged in with entity id 8947 at (-266.90926515175204, 64.0, -79.34165027507207)
+[01:52:41] [Server thread/INFO]: Angelichi39 joined the game
+[01:52:47] [Server thread/INFO]: Arthuro[/127.207.17.91:57571] logged in with entity id 9239 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:52:47] [Server thread/INFO]: Arthuro joined the game
+[01:52:50] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:52:50] [Server thread/INFO]: Arthuro left the game
+[01:53:15] [Server thread/INFO]: Arthuro[/127.207.17.91:47009] logged in with entity id 9706 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:53:15] [Server thread/INFO]: Arthuro joined the game
+[01:53:17] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:53:17] [Server thread/INFO]: Arthuro left the game
+[01:53:39] [Server thread/INFO]: Arthuro[/127.207.17.91:40839] logged in with entity id 9962 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:53:39] [Server thread/INFO]: Arthuro joined the game
+[01:53:41] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:53:41] [Server thread/INFO]: Arthuro left the game
+[01:53:56] [Server thread/INFO]: Arthuro[/127.207.17.91:45815] logged in with entity id 10179 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:53:56] [Server thread/INFO]: Arthuro joined the game
+[01:53:58] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:53:58] [Server thread/INFO]: Arthuro left the game
+[01:54:17] [Server thread/INFO]: Arthuro[/127.207.17.91:38885] logged in with entity id 10347 at (-279.1347977839245, 70.0, -76.37044508546991)
+[01:54:17] [Server thread/INFO]: Arthuro joined the game
