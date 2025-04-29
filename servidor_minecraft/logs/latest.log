@@ -22,3 +22,13 @@
 [03:56:22] [Server thread/INFO]: [ThebrosXD: Set own game mode to Creative Mode]
 [03:57:52] [Server thread/INFO]: [ThebrosXD: Set own game mode to Survival Mode]
 [03:58:45] [Server thread/INFO]: [Angelichi39: Set own game mode to Survival Mode]
+[04:18:09] [Server thread/WARN]: ThebrosXD was kicked for floating too long!
+[04:18:09] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:18:09] [Server thread/INFO]: ThebrosXD left the game
+[04:18:12] [Server thread/WARN]: Arthuro was kicked for floating too long!
+[04:18:12] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:18:12] [Server thread/INFO]: Arthuro left the game
+[04:18:23] [Server thread/INFO]: ThebrosXD[/127.28.173.95:42827] logged in with entity id 62198 at (1603.8598533354898, 71.0, -1617.8044441908153)
+[04:18:23] [Server thread/INFO]: ThebrosXD joined the game
+[04:18:26] [Server thread/INFO]: Arthuro[/127.207.17.91:54071] logged in with entity id 62279 at (1608.1925267270422, 71.0, -1616.1922855685489)
+[04:18:26] [Server thread/INFO]: Arthuro joined the game
