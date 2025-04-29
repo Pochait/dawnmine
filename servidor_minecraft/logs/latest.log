@@ -1,24 +1,24 @@
-[00:30:42] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[00:30:50] [Server thread/INFO]: Loading properties
-[00:30:50] [Server thread/INFO]: Default game type: SURVIVAL
-[00:30:50] [Server thread/INFO]: Generating keypair
-[00:30:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:30:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:30:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:30:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:30:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:30:57] [Server thread/INFO]: Preparing level "world"
-[00:31:07] [Server thread/INFO]: Preparing start region for level 0
-[00:31:07] [Server thread/INFO]: Done (9.989s)! For help, type "help" or "?"
-[00:34:06] [Server thread/INFO]: Arthuro[/127.207.17.91:44423] logged in with entity id 7548 at (-241.87777778002948, 67.0, -79.43286629349286)
-[00:34:06] [Server thread/INFO]: Arthuro joined the game
-[00:44:07] [Server thread/INFO]: Angelichi39[/127.135.79.32:41753] logged in with entity id 13417 at (-253.8205483985697, 64.0, -85.16456801053128)
-[00:44:07] [Server thread/INFO]: Angelichi39 joined the game
-[00:50:32] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:50:32] [Server thread/INFO]: Angelichi39 left the game
-[00:50:41] [Server thread/INFO]: Angelichi39[/127.135.79.32:34781] logged in with entity id 19342 at (-271.0868808797334, 64.5, -84.16580457024331)
-[00:50:41] [Server thread/INFO]: Angelichi39 joined the game
-[00:55:13] [Server thread/INFO]: That player cannot be found
-[00:55:24] [Server thread/INFO]: You whisper to Arthuro: que chucchas
-[00:55:24] [Server thread/INFO]: You whisper to Angelichi39: que chucchas
-[00:55:44] [Server thread/INFO]: <Angelichi39> WASAAAAAAAAAAAAAAAAAAAAAAA
+[01:48:51] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[01:48:58] [Server thread/INFO]: Loading properties
+[01:48:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:48:58] [Server thread/INFO]: Generating keypair
+[01:48:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:48:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:48:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:48:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:48:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:49:05] [Server thread/INFO]: Preparing level "world"
+[01:49:14] [Server thread/INFO]: Preparing start region for level 0
+[01:49:14] [Server thread/INFO]: Done (9.466s)! For help, type "help" or "?"
+[01:49:28] [Server thread/INFO]: Arthuro[/127.207.17.91:37751] logged in with entity id 7472 at (-255.55532933038612, 64.0, -82.88652945987583)
+[01:49:28] [Server thread/INFO]: Arthuro joined the game
+[01:51:37] [Server thread/INFO]: ThebrosXD[/127.7.14.88:43397] logged in with entity id 8525 at (-244.51000486826317, 54.0, -102.69999998807907)
+[01:51:37] [Server thread/INFO]: ThebrosXD joined the game
+[01:51:41] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:51:41] [Server thread/INFO]: Arthuro left the game
+[01:51:52] [Server thread/INFO]: Arthuro[/127.207.17.91:46507] logged in with entity id 8647 at (-241.79192619679662, 64.0, -70.23258863694883)
+[01:51:52] [Server thread/INFO]: Arthuro joined the game
+[01:51:54] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:51:54] [Server thread/INFO]: Arthuro left the game
+[01:52:05] [Server thread/INFO]: Arthuro[/127.207.17.91:40907] logged in with entity id 8742 at (-241.79192619679662, 64.0, -70.23258863694883)
+[01:52:05] [Server thread/INFO]: Arthuro joined the game
