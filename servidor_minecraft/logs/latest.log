@@ -29,3 +29,14 @@
 [02:13:40] [Server thread/INFO]: ThebrosXD left the game
 [02:17:56] [Server thread/INFO]: ThebrosXD[/127.28.173.95:42721] logged in with entity id 34306 at (-266.6089721768002, 59.0, -93.42387935977996)
 [02:17:56] [Server thread/INFO]: ThebrosXD joined the game
+[02:19:27] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:19:27] [Server thread/INFO]: ThebrosXD left the game
+[02:21:58] [Server thread/WARN]: Arthuro moved wrongly!
+[02:22:14] [Server thread/WARN]: Arthuro moved wrongly!
+[02:22:15] [Server thread/INFO]: ThebrosXD[/127.7.14.88:54493] logged in with entity id 38172 at (-271.6872827536368, 58.0, -97.64935062764188)
+[02:22:15] [Server thread/INFO]: ThebrosXD joined the game
+[02:24:10] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:24:10] [Server thread/INFO]: ThebrosXD left the game
+[02:24:18] [Server thread/WARN]: Arthuro moved wrongly!
+[02:25:33] [Server thread/INFO]: ThebrosXD[/127.28.173.95:34207] logged in with entity id 42069 at (-267.17392114465383, 59.0, -93.60385067664978)
+[02:25:33] [Server thread/INFO]: ThebrosXD joined the game
