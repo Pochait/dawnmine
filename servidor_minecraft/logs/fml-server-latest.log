@@ -2838,3 +2838,16 @@ io.netty.handler.timeout.ReadTimeoutException
 [03:06:39] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
 [03:06:39] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
 [03:06:39] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:07:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:08:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:08:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:09:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:10:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:11:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:11:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:12:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:13:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:14:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:14:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:15:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[03:16:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
