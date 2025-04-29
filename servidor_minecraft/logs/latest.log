@@ -37,3 +37,6 @@
 [04:24:20] [Server thread/INFO]: Angelichi39[/127.135.79.32:50873] logged in with entity id 65328 at (1597.2374819876554, 81.51281745041015, -1603.8690426663431)
 [04:24:20] [Server thread/INFO]: Angelichi39 joined the game
 [04:27:25] [Server thread/INFO]: [ThebrosXD: Set Angelichi39's game mode to Survival Mode]
+[04:30:50] [Server thread/WARN]: Angelichi39 moved wrongly!
+[04:32:51] [Server thread/WARN]: Arthuro moved wrongly!
+[04:37:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2127ms behind, skipping 42 tick(s)
