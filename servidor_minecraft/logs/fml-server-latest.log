@@ -3151,3 +3151,20 @@ Caused by: java.lang.IllegalArgumentException
 [23:06:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [23:06:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [23:07:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:08:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:09:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:10:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:11:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:12:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:12:25] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 200 packets have leaked. Top offenders
+[23:12:25] [Server thread/ERROR] [FML/]: 	 gokiStats : 182
+[23:12:25] [Server thread/ERROR] [FML/]: 	 eplus : 18
+[23:12:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:13:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:14:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:15:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:15:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:16:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:17:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:18:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
