@@ -60,3 +60,8 @@
 [03:18:37] [Server thread/WARN]: Fetching addPacket for removed entity
 [03:18:37] [Server thread/WARN]: Fetching addPacket for removed entity
 [03:18:37] [Server thread/WARN]: Fetching addPacket for removed entity
+[03:33:20] [Server thread/INFO]: Arthuro has just earned the achievement [Your First Prick!]
+[03:33:30] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:33:30] [Server thread/INFO]: ThebrosXD left the game
+[03:33:38] [Server thread/INFO]: ThebrosXD[/127.28.173.95:43529] logged in with entity id 154129 at (-267.32342271539153, 64.0, -86.43165248386158)
+[03:33:38] [Server thread/INFO]: ThebrosXD joined the game
