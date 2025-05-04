@@ -2878,3 +2878,28 @@ Caused by: java.lang.IllegalArgumentException
 [02:32:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:33:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:34:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:34:43] [Server thread/INFO] [FML/]: Generatig npcVillage.prop at x: 2881,  z:-159
+[02:34:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:35:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:36:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:36:50] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:49]: EntityGiantBoxer[' Monking'/68593, l='world', x=2844.69, y=64.00, z=-1298.14] EntityPlayerMP['ThebrosXD'/16236, l='world', x=2847.64, y=64.00, z=-1296.64]
+[02:36:50] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:50]: true true
+[02:36:51] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:49]: EntityGiantBoxer[' Monking'/68593, l='world', x=2844.69, y=64.00, z=-1298.14] EntityPlayerMP['ThebrosXD'/16236, l='world', x=2847.22, y=64.00, z=-1296.86]
+[02:36:51] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:50]: true true
+[02:36:51] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:49]: EntityGiantBoxer[' Monking'/68593, l='world', x=2844.82, y=64.00, z=-1298.08] EntityPlayerMP['ThebrosXD'/16236, l='world', x=2847.06, y=64.00, z=-1296.95]
+[02:36:51] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:50]: true true
+[02:36:52] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:49]: EntityGiantBoxer[' Monking'/68593, l='world', x=2844.82, y=64.00, z=-1298.08] EntityPlayerMP['ThebrosXD'/16236, l='world', x=2846.95, y=64.00, z=-1297.01]
+[02:36:52] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:50]: true true
+[02:37:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:37:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:38:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:39:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:40:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:40:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:41:26] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:49]: EntityHumanPigZombie[' Pig Zombie'/88367, l='world', x=2874.87, y=70.00, z=-1271.86] EntityPlayerMP['ThebrosXD'/16236, l='world', x=2876.21, y=70.00, z=-1271.63]
+[02:41:26] [Server thread/INFO] [STDOUT/]: [com.chocolate.chocolateQuest.packets.PacketShieldBlock:execute:50]: true true
+[02:41:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:42:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:43:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:43:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:44:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
