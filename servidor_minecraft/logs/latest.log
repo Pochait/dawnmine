@@ -16,3 +16,7 @@
 [21:54:27] [Server thread/INFO]: ThebrosXD joined the game
 [22:37:53] [Server thread/INFO]: Angelichi39[/127.166.162.220:58443] logged in with entity id 113258 at (-246.49252113435364, 79.0, -70.59088683549481)
 [22:37:53] [Server thread/INFO]: Angelichi39 joined the game
+[23:09:35] [Server thread/INFO]: Angelichi39 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:09:35] [Server thread/INFO]: Angelichi39 left the game
+[23:14:57] [Server thread/INFO]: Angelichi39[/127.166.162.220:60809] logged in with entity id 188192 at (-252.3867352067498, 111.5, -95.90003066935492)
+[23:14:57] [Server thread/INFO]: Angelichi39 joined the game
