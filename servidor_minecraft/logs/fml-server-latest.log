@@ -2906,3 +2906,16 @@ io.netty.handler.timeout.ReadTimeoutException
 [23:14:57] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [23:14:57] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [23:14:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:15:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:16:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:17:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:17:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:18:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:19:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:20:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:20:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:21:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:22:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:23:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:23:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[23:24:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
