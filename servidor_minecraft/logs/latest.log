@@ -79,3 +79,20 @@
 [01:57:42] [Server thread/INFO]: ThebrosXD was killed trying to hurt Arthuro
 [02:30:16] [Server thread/INFO]: [ThebrosXD: Set own game mode to Creative Mode]
 [02:35:35] [Server thread/INFO]: [ThebrosXD: Set own game mode to Survival Mode]
+[02:41:12] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:41:12] [Server thread/INFO]: Angelichi39 left the game
+[02:41:22] [Server thread/INFO]: Angelichi39[/127.166.162.220:57707] logged in with entity id 574861 at (-269.07970901907873, 77.0, -96.61519322371447)
+[02:41:22] [Server thread/INFO]: Angelichi39 joined the game
+[02:43:52] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 1921.5,65.5,-1432.5]
+[02:52:38] [Server thread/INFO]: [Arthuro: Teleported Arthuro to Angelichi39]
+[02:53:02] [Server thread/INFO]: [ThebrosXD: Set game difficulty to Hard]
+[02:53:14] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:53:14] [Server thread/INFO]: Arthuro left the game
+[02:53:15] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:53:15] [Server thread/INFO]: Angelichi39 left the game
+[02:53:26] [Server thread/INFO]: Arthuro[/127.207.17.91:57207] logged in with entity id 620893 at (-247.1358261885977, 68.0, -74.78887951102212)
+[02:53:26] [Server thread/INFO]: Arthuro joined the game
+[02:53:27] [Server thread/INFO]: Angelichi39[/127.166.162.220:44779] logged in with entity id 620928 at (-243.75322644492923, 68.0, -68.72374442164626)
+[02:53:27] [Server thread/INFO]: Angelichi39 joined the game
+[02:54:05] [Server thread/INFO]: ThebrosXD was burnt to a crisp whilst fighting Zombie
+[02:54:53] [Server thread/INFO]: ThebrosXD drowned
