@@ -1,2 +1,28 @@
 [00:02:49] [Server thread/WARN]: Angelichi39 moved too quickly! -29.945934453750198,-0.7079642813610008,-5.781106134732809 (29.945934453750198, 0.7079642813610008, 5.781106134732809)
 [00:15:35] [Server thread/INFO]: Arthuro has just earned the achievement [We Need to Go Deeper]
+[00:16:32] [Server thread/INFO]: [ThebrosXD: Kicked Arthuro from the game: 'por aproecharse']
+[00:16:32] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='por aproecharse', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:16:32] [Server thread/INFO]: Arthuro left the game
+[00:16:45] [Server thread/INFO]: Arthuro[/127.207.17.91:54319] logged in with entity id 333023 at (-31.277001072711, 66.0, 33.4652834977192)
+[00:16:45] [Server thread/INFO]: Arthuro joined the game
+[00:16:47] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:16:47] [Server thread/INFO]: Arthuro left the game
+[00:17:01] [Server thread/INFO]: Arthuro[/127.207.17.91:56903] logged in with entity id 333332 at (-31.277001072711, 66.0, 33.4652834977192)
+[00:17:01] [Server thread/INFO]: Arthuro joined the game
+[00:17:03] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:17:03] [Server thread/INFO]: Arthuro left the game
+[00:17:23] [Server thread/INFO]: Arthuro[/127.207.17.91:47321] logged in with entity id 333678 at (-31.277001072711, 66.0, 33.4652834977192)
+[00:17:23] [Server thread/INFO]: Arthuro joined the game
+[00:17:25] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:17:25] [Server thread/INFO]: Arthuro left the game
+[00:17:33] [Server thread/INFO]: Arthuro[/127.207.17.91:41097] logged in with entity id 333979 at (-31.277001072711, 66.0, 33.4652834977192)
+[00:17:33] [Server thread/INFO]: Arthuro joined the game
+[00:20:06] [Server thread/WARN]: Arthuro moved wrongly!
+[00:20:32] [Server thread/INFO]: Arthuro lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:20:32] [Server thread/INFO]: Arthuro left the game
+[00:20:41] [Server thread/INFO]: Arthuro[/127.207.17.91:48213] logged in with entity id 339604 at (-248.4528440883806, 68.0, -79.51145971040822)
+[00:20:41] [Server thread/INFO]: Arthuro joined the game
+[00:22:23] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:22:23] [Server thread/INFO]: ThebrosXD left the game
+[00:22:50] [Server thread/INFO]: ThebrosXD[/127.7.14.88:35607] logged in with entity id 341681 at (75.46138702529335, 67.0, -374.34739129423787)
+[00:22:50] [Server thread/INFO]: ThebrosXD joined the game
