@@ -16182,3 +16182,193 @@ io.netty.handler.timeout.ReadTimeoutException
 [00:44:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:44:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:45:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:46:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:47:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:47:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:48:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:49:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:50:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:50:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:51:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:52:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:53:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:53:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:54:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:55:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:56:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:56:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:57:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:57:58] [Netty IO #0/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:57:58] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[00:57:58] [Netty IO #0/TRACE] [FML/]: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:57:58] [Netty IO #0/INFO] [FML/]: Client attempting to join with 41 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[00:57:58] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:57:58] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:57:58] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:57:58] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:57:58] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:57:59] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[00:57:59] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[00:57:59] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[00:57:59] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:58:01] [Netty IO #0/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_442]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47) ~[?:1.8.0_442]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_442]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:51) ~[?:1.8.0_442]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470) ~[?:1.8.0_442]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.getBytes(UnpooledUnsafeDirectByteBuf.java:408) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.readBytes(UnpooledUnsafeDirectByteBuf.java:414) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doWriteBytes(NioSocketChannel.java:214) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel.doWrite(AbstractNioByteChannel.java:178) ~[AbstractNioByteChannel.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doWrite(NioSocketChannel.java:231) ~[NioSocketChannel.class:?]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:680) ~[AbstractChannel$AbstractUnsafe.class:?]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.flush0(AbstractNioChannel.java:260) ~[AbstractNioChannel$AbstractNioUnsafe.class:?]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.flush(AbstractChannel.java:649) ~[AbstractChannel$AbstractUnsafe.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadHandler.flush(DefaultChannelPipeline.java:1038) ~[DefaultChannelPipeline$HeadHandler.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.flush(DefaultChannelHandlerContext.java:655) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115) ~[ChannelOutboundHandlerAdapter.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.flush(DefaultChannelHandlerContext.java:655) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115) ~[ChannelOutboundHandlerAdapter.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.flush(DefaultChannelHandlerContext.java:655) ~[DefaultChannelHandlerContext.class:?]
+	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.flush(NetworkDispatcher.java:447) ~[NetworkDispatcher.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:700) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:688) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:717) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:893) ~[DefaultChannelPipeline.class:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:239) ~[AbstractChannel.class:?]
+	at net.minecraft.network.NetworkManager$1.run(NetworkManager.java:174) [ek.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:354) [SingleThreadEventExecutor.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:348) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[00:58:05] [Netty IO #3/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:58:05] [Netty IO #3/INFO] [FML/]: Client protocol version 2
+[00:58:05] [Netty IO #3/TRACE] [FML/]: $ModList:40 mods->FMLHandshakeServerState$2:HELLO
+[00:58:05] [Netty IO #3/INFO] [FML/]: Client attempting to join with 40 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[00:58:05] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:58:06] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:58:06] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:58:06] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:58:06] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[00:58:06] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[00:58:06] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[00:58:06] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:58:06] [Netty IO #3/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:58:13] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:58:13] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[00:58:13] [Netty IO #4/TRACE] [FML/]: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[00:58:13] [Netty IO #4/INFO] [FML/]: Client attempting to join with 41 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[00:58:13] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[00:58:13] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:58:13] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:58:13] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:58:13] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:58:13] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[00:58:13] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[00:58:13] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[00:58:13] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:58:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:59:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:59:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:00:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:01:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:02:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:02:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:03:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:04:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:05:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:05:17] [Netty IO #0/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:05:17] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[01:05:17] [Netty IO #0/TRACE] [FML/]: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[01:05:17] [Netty IO #0/INFO] [FML/]: Client attempting to join with 41 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:05:17] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:05:17] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:05:18] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:05:18] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:05:18] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:05:18] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:05:18] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:05:18] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:05:18] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:05:18] [Netty IO #0/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_442]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47) ~[?:1.8.0_442]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_442]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:51) ~[?:1.8.0_442]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470) ~[?:1.8.0_442]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.getBytes(UnpooledUnsafeDirectByteBuf.java:408) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.readBytes(UnpooledUnsafeDirectByteBuf.java:414) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doWriteBytes(NioSocketChannel.java:214) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel.doWrite(AbstractNioByteChannel.java:178) ~[AbstractNioByteChannel.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doWrite(NioSocketChannel.java:231) ~[NioSocketChannel.class:?]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:680) ~[AbstractChannel$AbstractUnsafe.class:?]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.flush0(AbstractNioChannel.java:260) ~[AbstractNioChannel$AbstractNioUnsafe.class:?]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.flush(AbstractChannel.java:649) ~[AbstractChannel$AbstractUnsafe.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadHandler.flush(DefaultChannelPipeline.java:1038) ~[DefaultChannelPipeline$HeadHandler.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.flush(DefaultChannelHandlerContext.java:655) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115) ~[ChannelOutboundHandlerAdapter.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.flush(DefaultChannelHandlerContext.java:655) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115) ~[ChannelOutboundHandlerAdapter.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.flush(DefaultChannelHandlerContext.java:655) ~[DefaultChannelHandlerContext.class:?]
+	at cpw.mods.fml.common.network.handshake.NetworkDispatcher.flush(NetworkDispatcher.java:447) ~[NetworkDispatcher.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.invokeFlush(DefaultChannelHandlerContext.java:674) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.write(DefaultChannelHandlerContext.java:700) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:688) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelHandlerContext.writeAndFlush(DefaultChannelHandlerContext.java:717) ~[DefaultChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:893) ~[DefaultChannelPipeline.class:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:239) ~[AbstractChannel.class:?]
+	at net.minecraft.network.NetworkManager$1.run(NetworkManager.java:174) [ek.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:354) [SingleThreadEventExecutor.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:348) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[01:05:31] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:05:31] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[01:05:31] [Netty IO #2/TRACE] [FML/]: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[01:05:31] [Netty IO #2/INFO] [FML/]: Client attempting to join with 41 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:05:31] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:05:31] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:05:32] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:05:32] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:05:32] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:05:32] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:05:32] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:05:32] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:05:32] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:05:46] [Netty IO #7/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:05:46] [Netty IO #7/INFO] [FML/]: Client protocol version 2
+[01:05:46] [Netty IO #7/TRACE] [FML/]: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[01:05:46] [Netty IO #7/INFO] [FML/]: Client attempting to join with 41 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:05:46] [Netty IO #7/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:05:46] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:05:46] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:05:46] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:05:46] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:05:46] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:05:46] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:05:46] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:05:46] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:05:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:06:02] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:06:02] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[01:06:02] [Netty IO #2/TRACE] [FML/]: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[01:06:02] [Netty IO #2/INFO] [FML/]: Client attempting to join with 41 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,tlauncher_custom_cape_skin@1.0,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:06:02] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:06:02] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:06:02] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:06:02] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:06:02] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:06:02] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:06:02] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:06:02] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:06:02] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
