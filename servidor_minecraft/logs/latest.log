@@ -27,3 +27,8 @@
 [21:28:59] [Server thread/INFO]: ThebrosXD left the game
 [21:29:05] [Server thread/INFO]: ThebrosXD[/127.7.14.88:48767] logged in with entity id 115945 at (-261.17448060935965, 71.24918707874468, -72.47306408045824)
 [21:29:05] [Server thread/INFO]: ThebrosXD joined the game
+[21:41:05] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -30.5,75.5,-8.5]
+[21:42:35] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:42:35] [Server thread/INFO]: ThebrosXD left the game
+[21:42:41] [Server thread/INFO]: ThebrosXD[/127.7.14.88:38409] logged in with entity id 129690 at (-280.3365829094723, 74.0, -76.24058129266437)
+[21:42:41] [Server thread/INFO]: ThebrosXD joined the game
