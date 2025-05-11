@@ -19,3 +19,11 @@
 [20:56:21] [Server thread/INFO]: [ThebrosXD: Set own game mode to Survival Mode]
 [20:56:46] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 1921.5,65.5,-1432.5]
 [20:59:15] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -252.5,75.5,-72.5]
+[21:24:57] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:24:57] [Server thread/INFO]: ThebrosXD left the game
+[21:25:08] [Server thread/INFO]: ThebrosXD[/127.7.14.88:35513] logged in with entity id 111266 at (-266.2065736454764, 74.00133597911214, -72.52870721200374)
+[21:25:08] [Server thread/INFO]: ThebrosXD joined the game
+[21:28:59] [Server thread/INFO]: ThebrosXD lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:28:59] [Server thread/INFO]: ThebrosXD left the game
+[21:29:05] [Server thread/INFO]: ThebrosXD[/127.7.14.88:48767] logged in with entity id 115945 at (-261.17448060935965, 71.24918707874468, -72.47306408045824)
+[21:29:05] [Server thread/INFO]: ThebrosXD joined the game
