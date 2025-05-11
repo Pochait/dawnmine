@@ -16652,3 +16652,43 @@ Caused by: java.lang.IllegalArgumentException
 [01:35:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [01:35:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [01:36:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:37:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:37:40] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:37:40] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[01:37:40] [Netty IO #4/TRACE] [FML/]: $ModList:40 mods->FMLHandshakeServerState$2:HELLO
+[01:37:40] [Netty IO #4/INFO] [FML/]: Client attempting to join with 40 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:37:40] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:37:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:37:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:37:40] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:37:40] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:37:40] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:37:40] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:37:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:37:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:38:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:38:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:39:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:40:01] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:40:01] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[01:40:01] [Netty IO #4/TRACE] [FML/]: $ModList:40 mods->FMLHandshakeServerState$2:HELLO
+[01:40:01] [Netty IO #4/INFO] [FML/]: Client attempting to join with 40 mods : BuildMod@v1.0,InfernalMobs@1.6.0,NotEnoughItems@1.0.5.120,TConstruct@1.7.10-1.8.8.build988,sonicvisuals@0.3,AWWayofTime@v1.3.3,Forge@10.13.4.1614,CustomSpawner@3.3.0,dungeonmobs@4.1.3,iChunUtil@4.2.3,BiblioCraft@1.11.7,deconstruction@3.0.2,CoroPets@v1.0,CodeChickenCore@1.0.7.48,CoroAI@v1.0,bspkrsCore@6.16,mcp@9.05,Treecapitator@1.7.10,Mantle@1.7.10-0.3.2.jenkins191,DamageIndicatorsMod@3.3.2,journeymap@5.2.8,TallDoors@0.5.1,chocolateQuest@1.0,gokiStats@1.0.0,FML@7.10.99.99,weather2@v2.3.19,inventorytweaks@1.59-SI-release-0421137-dirty,ExtendedRenderer@v1.0,fossil@1.7.10 Build 7.2.1,BiomesOPlenty@2.1.0,MobDismemberment@4.0.0,TwilightForest@2.3.8dev,skinport@1.7.10-v10d,Backpack@2.0.1,MobAmputation@4.0.1,witchery@0.24.1,MoCreatures@6.3.1,eplus@3.0.2-d,mobends@0.20.1,ConfigMod@v1.0
+[01:40:01] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[01:40:01] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:40:02] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:40:02] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[01:40:02] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named biome.treasure.name, but Twilight Forest is set to use that ID.
+[01:40:02] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict.  Biome ID 128 contains a biome named Land of Darkness, but Twilight Forest is set to use that ID.
+[01:40:02] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[01:40:02] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:40:02] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:40:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:41:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:41:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:42:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:43:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:44:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:44:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:45:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:46:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:47:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
