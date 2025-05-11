@@ -3001,3 +3001,35 @@ io.netty.handler.timeout.ReadTimeoutException
 [21:57:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [21:58:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [21:58:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:59:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:00:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:01:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:01:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:02:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:03:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:04:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:04:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:05:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:06:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:07:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:07:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:08:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:09:02] [Server thread/INFO] [FML/]: Generatig castlesSchematic.prop at x: -319,  z:641
+[22:09:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:09:39] [Server thread/INFO] [FML/]: Generatig castlesRandomized.prop at x: -479,  z:641
+[22:10:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:10:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:11:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:12:19] [Server thread/ERROR] [FML/]: Detected ongoing potential memory leak. 100 packets have leaked. Top offenders
+[22:12:19] [Server thread/ERROR] [FML/]: 	 gokiStats : 98
+[22:12:19] [Server thread/ERROR] [FML/]: 	 eplus : 2
+[22:12:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:13:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:13:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:14:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:15:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:16:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:16:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:17:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:18:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:19:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
