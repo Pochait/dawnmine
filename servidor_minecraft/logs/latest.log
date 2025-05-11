@@ -1,133 +1,17 @@
-[22:23:20] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:23:29] [Server thread/INFO]: Loading properties
-[22:23:29] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:29] [Server thread/INFO]: Generating keypair
-[22:23:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:23:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:23:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:23:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:23:37] [Server thread/INFO]: Preparing level "world"
-[22:23:51] [Server thread/INFO]: Preparing start region for level 0
-[22:23:51] [Server thread/INFO]: Done (14.578s)! For help, type "help" or "?"
-[22:24:12] [Server thread/INFO]: Angelichi39[/127.12.140.34:45315] logged in with entity id 7543 at (-285.64784265970854, 64.0, -90.1464373522164)
-[22:24:12] [Server thread/INFO]: Angelichi39 joined the game
-[22:25:16] [Server thread/INFO]: ThebrosXD[/127.7.14.88:46291] logged in with entity id 8676 at (-328.20176895711825, 80.93405037293613, -72.24350991230867)
-[22:25:16] [Server thread/INFO]: ThebrosXD joined the game
-[22:27:08] [Server thread/WARN]: Angelichi39 moved wrongly!
-[22:27:28] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 1921.5,65.5,-1432.5]
-[22:29:12] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -252.5,75.5,-72.5]
-[22:29:29] [Server thread/INFO]: [Angelichi39: Set own game mode to Creative Mode]
-[22:40:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3757ms behind, skipping 75 tick(s)
-[22:42:20] [Server thread/WARN]: Failed to handle packet for /127.7.14.88:46291
-net.minecraft.util.ReportedException: Ticking player
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:349) ~[mw.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:303) ~[nh.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137) ~[jd.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:8) ~[jd.class:?]
-	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212) ~[ej.class:?]
-	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) [nc.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_71011_bu()Lnet/minecraft/item/ItemStack;
-	at com.chocolate.chocolateQuest.items.gun.ItemGolemMachineGun.func_77663_a(ItemGolemMachineGun.java:40) ~[ItemGolemMachineGun.class:?]
-	at net.minecraft.item.ItemStack.func_77945_a(ItemStack.java:381) ~[add.class:?]
-	at net.minecraft.entity.player.InventoryPlayer.func_70429_k(InventoryPlayer.java:311) ~[yx.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70636_d(EntityPlayer.java:538) ~[yz.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:1611) ~[sv.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:288) ~[yz.class:?]
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:295) ~[mw.class:?]
-	... 10 more
-[22:42:20] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Internal server error', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:42:20] [Server thread/INFO]: ThebrosXD left the game
-[22:42:29] [Server thread/INFO]: ThebrosXD[/127.7.14.88:50811] logged in with entity id 39971 at (-394.0771548035385, 75.3946557067856, -76.183766888397)
-[22:42:29] [Server thread/INFO]: ThebrosXD joined the game
-[22:42:30] [Server thread/WARN]: Failed to handle packet for /127.7.14.88:50811
-net.minecraft.util.ReportedException: Ticking player
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:349) ~[mw.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:303) ~[nh.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137) ~[jd.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:8) ~[jd.class:?]
-	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212) ~[ej.class:?]
-	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) [nc.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_71011_bu()Lnet/minecraft/item/ItemStack;
-	at com.chocolate.chocolateQuest.items.gun.ItemGolemMachineGun.func_77663_a(ItemGolemMachineGun.java:40) ~[ItemGolemMachineGun.class:?]
-	at net.minecraft.item.ItemStack.func_77945_a(ItemStack.java:381) ~[add.class:?]
-	at net.minecraft.entity.player.InventoryPlayer.func_70429_k(InventoryPlayer.java:311) ~[yx.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70636_d(EntityPlayer.java:538) ~[yz.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:1611) ~[sv.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:288) ~[yz.class:?]
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:295) ~[mw.class:?]
-	... 10 more
-[22:42:30] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Internal server error', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:42:30] [Server thread/INFO]: ThebrosXD left the game
-[22:42:44] [Server thread/INFO]: ThebrosXD[/127.7.14.88:47901] logged in with entity id 40074 at (-394.0771548035385, 75.3946557067856, -76.183766888397)
-[22:42:44] [Server thread/INFO]: ThebrosXD joined the game
-[22:42:45] [Server thread/WARN]: Failed to handle packet for /127.7.14.88:47901
-net.minecraft.util.ReportedException: Ticking player
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:349) ~[mw.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:303) ~[nh.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137) ~[jd.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer$C06PacketPlayerPosLook.func_148833_a(SourceFile:20) ~[jf.class:?]
-	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212) ~[ej.class:?]
-	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) [nc.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_71011_bu()Lnet/minecraft/item/ItemStack;
-	at com.chocolate.chocolateQuest.items.gun.ItemGolemMachineGun.func_77663_a(ItemGolemMachineGun.java:40) ~[ItemGolemMachineGun.class:?]
-	at net.minecraft.item.ItemStack.func_77945_a(ItemStack.java:381) ~[add.class:?]
-	at net.minecraft.entity.player.InventoryPlayer.func_70429_k(InventoryPlayer.java:311) ~[yx.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70636_d(EntityPlayer.java:538) ~[yz.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:1611) ~[sv.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:288) ~[yz.class:?]
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:295) ~[mw.class:?]
-	... 10 more
-[22:42:45] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Internal server error', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:42:45] [Server thread/INFO]: ThebrosXD left the game
-[22:42:54] [Server thread/INFO]: ThebrosXD[/127.7.14.88:39621] logged in with entity id 40150 at (-394.0771548035385, 75.3946557067856, -76.183766888397)
-[22:42:54] [Server thread/INFO]: ThebrosXD joined the game
-[22:42:55] [Server thread/WARN]: Failed to handle packet for /127.7.14.88:39621
-net.minecraft.util.ReportedException: Ticking player
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:349) ~[mw.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.func_147347_a(NetHandlerPlayServer.java:303) ~[nh.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer.func_148833_a(SourceFile:137) ~[jd.class:?]
-	at net.minecraft.network.play.client.C03PacketPlayer$C06PacketPlayerPosLook.func_148833_a(SourceFile:20) ~[jf.class:?]
-	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212) ~[ej.class:?]
-	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) [nc.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.player.EntityPlayer.func_71011_bu()Lnet/minecraft/item/ItemStack;
-	at com.chocolate.chocolateQuest.items.gun.ItemGolemMachineGun.func_77663_a(ItemGolemMachineGun.java:40) ~[ItemGolemMachineGun.class:?]
-	at net.minecraft.item.ItemStack.func_77945_a(ItemStack.java:381) ~[add.class:?]
-	at net.minecraft.entity.player.InventoryPlayer.func_70429_k(InventoryPlayer.java:311) ~[yx.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70636_d(EntityPlayer.java:538) ~[yz.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:1611) ~[sv.class:?]
-	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:288) ~[yz.class:?]
-	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:295) ~[mw.class:?]
-	... 10 more
-[22:42:55] [Server thread/INFO]: ThebrosXD lost connection: TextComponent{text='Internal server error', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:42:55] [Server thread/INFO]: ThebrosXD left the game
-[22:43:01] [Server thread/INFO]: ThebrosXD[/127.7.14.88:59767] logged in with entity id 40876 at (-394.0771548035385, 75.3946557067856, -76.183766888397)
-[22:43:01] [Server thread/INFO]: ThebrosXD joined the game
-[22:56:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2187ms behind, skipping 43 tick(s)
-[22:56:52] [Server thread/WARN]: Skipping Entity with id 
-[22:56:52] [Server thread/WARN]: Skipping Entity with id 
-[22:56:52] [Server thread/WARN]: Skipping Entity with id 
-[22:56:52] [Server thread/WARN]: Skipping Entity with id 
-[22:56:52] [Server thread/WARN]: Skipping Entity with id 
-[22:56:52] [Server thread/WARN]: Skipping Entity with id 
-[23:00:23] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to -252.5,75.5,-72.5]
+[23:37:16] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:37:25] [Server thread/INFO]: Loading properties
+[23:37:25] [Server thread/INFO]: Default game type: SURVIVAL
+[23:37:25] [Server thread/INFO]: Generating keypair
+[23:37:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:37:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:37:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:37:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:37:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:37:34] [Server thread/INFO]: Preparing level "world"
+[23:37:46] [Server thread/INFO]: Preparing start region for level 0
+[23:37:47] [Server thread/INFO]: Done (13.331s)! For help, type "help" or "?"
+[23:37:55] [Server thread/INFO]: ThebrosXD[/127.7.14.88:45425] logged in with entity id 7494 at (-377.7465024323475, 63.0, -55.213503999158874)
+[23:37:55] [Server thread/INFO]: ThebrosXD joined the game
+[23:38:06] [Server thread/INFO]: Angelichi39[/127.12.140.34:47927] logged in with entity id 7633 at (-406.0783803923597, 63.27038874166709, -77.15608693376277)
+[23:38:06] [Server thread/INFO]: Angelichi39 joined the game
+[23:39:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5745ms behind, skipping 114 tick(s)
