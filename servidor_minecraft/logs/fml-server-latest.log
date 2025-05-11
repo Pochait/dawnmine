@@ -2835,3 +2835,17 @@ Caused by: java.lang.IllegalArgumentException
 [22:43:01] [Server thread/WARN] [FML/]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
 [22:43:01] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [22:43:01] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:43:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:44:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:44:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:45:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:46:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:47:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:47:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:48:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:49:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:50:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:50:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:51:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:52:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:53:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
