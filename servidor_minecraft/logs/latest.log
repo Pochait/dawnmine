@@ -31,3 +31,11 @@
 [00:38:55] [Server thread/INFO]: Angelichi39 joined the game
 [00:41:12] [Server thread/INFO]: [Angelichi39: Set own game mode to Creative Mode]
 [00:43:04] [Server thread/INFO]: [Angelichi39: Set own game mode to Survival Mode]
+[00:49:08] [Server thread/INFO]: Angelichi39 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:49:08] [Server thread/INFO]: Angelichi39 left the game
+[00:49:20] [Server thread/INFO]: Angelichi39[/127.12.140.34:44247] logged in with entity id 85142 at (-266.42385523113774, 77.0, -84.78548741996423)
+[00:49:20] [Server thread/INFO]: Angelichi39 joined the game
+[00:51:14] [Server thread/INFO]: Angelichi39 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:51:14] [Server thread/INFO]: Angelichi39 left the game
+[00:51:24] [Server thread/INFO]: Angelichi39[/127.12.140.34:39187] logged in with entity id 87652 at (-263.35548348831963, 64.0, -95.3839707283739)
+[00:51:24] [Server thread/INFO]: Angelichi39 joined the game
