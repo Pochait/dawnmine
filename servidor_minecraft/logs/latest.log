@@ -41,3 +41,25 @@
 [00:51:24] [Server thread/INFO]: Angelichi39 joined the game
 [01:19:25] [Server thread/INFO]: [Angelichi39: Set own game mode to Creative Mode]
 [01:25:18] [Server thread/INFO]: [Angelichi39: Set own game mode to Survival Mode]
+[01:36:43] [Server thread/INFO]: [Angelichi39: Teleported Angelichi39 to 1921.5,65.5,-1432.5]
+[01:38:06] [Server thread/INFO]: Angelichi39 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:38:06] [Server thread/INFO]: Angelichi39 left the game
+[01:39:09] [Server thread/INFO]: Angelichi39[/127.12.140.34:46221] logged in with entity id 136820 at (1923.074999988079, 65.0, -1433.586159471492)
+[01:39:09] [Server thread/INFO]: Angelichi39 joined the game
+[01:39:42] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:39:42] [Server thread/INFO]: Angelichi39 left the game
+[01:40:15] [Server thread/INFO]: Angelichi39[/127.12.140.34:56039] logged in with entity id 138152 at (1919.308685498044, 65.0, -1441.907100671903)
+[01:40:15] [Server thread/INFO]: Angelichi39 joined the game
+[01:41:32] [Server thread/INFO]: Angelichi39 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:41:32] [Server thread/INFO]: Angelichi39 left the game
+[01:41:52] [Server thread/INFO]: Angelichi39[/127.12.140.34:56563] logged in with entity id 141278 at (1931.4779172100236, 65.0, -1439.8676079740083)
+[01:41:52] [Server thread/INFO]: Angelichi39 joined the game
+[01:42:22] [Server thread/INFO]: Angelichi39 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:42:22] [Server thread/INFO]: Angelichi39 left the game
+[01:43:15] [Server thread/INFO]: Angelichi39[/127.12.140.34:60465] logged in with entity id 143662 at (1931.4779172100236, 65.0, -1439.8676079740083)
+[01:43:15] [Server thread/INFO]: Angelichi39 joined the game
+[01:43:36] [Server thread/INFO]: [Angelichi39: Set own game mode to Creative Mode]
+[01:44:37] [Server thread/INFO]: Angelichi39 lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:44:37] [Server thread/INFO]: Angelichi39 left the game
+[01:44:38] [Server thread/INFO]: Angelichi39[/127.12.140.34:36105] logged in with entity id 147465 at (1932.2385287457435, 65.0, -1439.1189356678553)
+[01:44:38] [Server thread/INFO]: Angelichi39 joined the game
